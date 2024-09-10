@@ -1,2 +1,2 @@
 # my-first-repository
-First repo for 
+First repo for DS course
